@@ -1,0 +1,3 @@
+[submodule "external/stdtype"]
+	path = external/stdtype
+	url = https://github.com/jopadan/stdtype
